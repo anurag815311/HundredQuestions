@@ -70,8 +70,8 @@ public class leetcode21 {
 
     public static void main(String[] args) {
         // Example: list1 = [1,2,4], list2 = [1,3,4]
-        int[] arr1 = { 1, 2, 4 };
-        int[] arr2 = { 1, 3, 4 };
+        int[] arr1 = { 1, 2, 4, 5 };
+        int[] arr2 = { 1, 3, 4, 6 };
 
         ListNode list1 = createList(arr1);
         ListNode list2 = createList(arr2);
