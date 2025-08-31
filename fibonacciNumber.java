@@ -4,7 +4,7 @@ F(0) = 0, F(1) = 1
 F(n) = F(n - 1) + F(n - 2), for n > 1.
 Given n, calculate F(n). */
 
-package HundredQuestions;
+//package HundredQuestions;
 
 public class fibonacciNumber {
     public static int lastTermOfSeries(int n) {

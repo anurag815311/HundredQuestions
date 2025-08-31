@@ -1,4 +1,4 @@
-package HundredQuestions;
+//package HundredQuestions;
 
 public class meanOfSortedArrays {
     public int[] merge(int arr1[], int arr2[]) {

@@ -45,7 +45,7 @@ Constraints:
 0 <= nums[i] <= 50
 0 <= val <= 100 */
 
-package HundredQuestions;
+//package HundredQuestions;
 
 public class removeElement {
     public static int remEle(int[] nums, int val) {

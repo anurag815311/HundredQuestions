@@ -4,7 +4,7 @@ On the third round, you toggle every third bulb (turning on if it's off or turni
 
 Return the number of bulbs that are on after n rounds. */
 
-package HundredQuestions;
+//package HundredQuestions;
 
 public class bulbSwitcher {
     public int bulbSwitch(int n) {

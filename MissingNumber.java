@@ -32,7 +32,7 @@ Explanation:
 
 n = 9 since there are 9 numbers, so all numbers are in the range [0,9]. 8 is the missing number in the range since it does not appear in nums. */
 
-package HundredQuestions;
+//package HundredQuestions;
 
 public class MissingNumber {
     public int missingNumber(int[] arr) {

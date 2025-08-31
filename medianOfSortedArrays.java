@@ -1,4 +1,4 @@
-package HundredQuestions;
+//package HundredQuestions;
 
 public class medianOfSortedArrays {
     public static double medianSortedArrays(int[] nums1, int[] nums2) {

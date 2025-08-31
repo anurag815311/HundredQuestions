@@ -1,4 +1,4 @@
-package HundredQuestions;
+//package HundredQuestions;
 
 public class powerTwo {
 

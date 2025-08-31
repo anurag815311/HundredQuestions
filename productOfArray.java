@@ -22,7 +22,7 @@ Constraints:
 -30 <= nums[i] <= 30
 The input is generated such that answer[i] is guaranteed to fit in a 32-bit integer. */
 
-package HundredQuestions;
+//package HundredQuestions;
 
 import java.util.Arrays;
 

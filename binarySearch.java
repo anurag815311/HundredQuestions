@@ -1,4 +1,4 @@
-package HundredQuestions;
+//package HundredQuestions;
 
 public class binarySearch {
     public static int binarySearching(int arr[], int target) {
